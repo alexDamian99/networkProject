@@ -1,0 +1,388 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.1)  7 DEC 2019 22:40
+entering extended mode
+**C:/Users/damia/Desktop/facultate/retele_documentatie/docs.tex
+(C:/Users/damia/Desktop/facultate/retele_documentatie/docs.tex
+LaTeX2e <2019-10-01>
+(C:/Users/damia/Desktop/facultate/retele_documentatie\llncs.cls
+Document Class: llncs 2018/03/10 v2.20 
+ LaTeX document class for Lecture Notes in Computer Science
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.s
+ty"
+Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box27
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@minrows=\count94
+\c@columnbadness=\count95
+\c@finalcolumnbadness=\count96
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count97
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aliascnt.
+sty"
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count98
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen112
+\tocsecnum=\dimen113
+\tocsectotal=\dimen114
+\tocsubsecnum=\dimen115
+\tocsubsectotal=\dimen116
+\tocsubsubsecnum=\dimen117
+\tocsubsubsectotal=\dimen118
+\tocparanum=\dimen119
+\tocparatotal=\dimen120
+\tocsubparanum=\dimen121
+\@tempcntc=\count99
+\fnindent=\dimen122
+\c@@inst=\count100
+\c@@auth=\count101
+\c@auco=\count102
+\instindent=\dimen123
+\authrun=\box53
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box54
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@theorem=\count103
+\c@case=\count104
+\c@conjecture=\count105
+\c@corollary=\count106
+\c@definition=\count107
+\c@example=\count108
+\c@exercise=\count109
+\c@lemma=\count110
+\c@note=\count111
+\c@problem=\count112
+\c@property=\count113
+\c@proposition=\count114
+\c@question=\count115
+\c@solution=\count116
+\c@remark=\count117
+\headlineindent=\dimen124
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks19
+\float@box=\box55
+\@float@everytoks=\toks20
+\@floatcapt=\box56
+)
+\@float@every@figure=\toks21
+
+No file docs.aux.
+\openout1 = `docs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen127
+\scratchbox=\box57
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen128
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks23
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+5.
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+<SERVER_SERVER_THREAD.jpg, id=1, 824.07875pt x 789.95125pt>
+File: SERVER_SERVER_THREAD.jpg Graphic file (type jpg)
+<use SERVER_SERVER_THREAD.jpg>
+Package pdftex.def Info: SERVER_SERVER_THREAD.jpg  used on input line 37.
+(pdftex.def)             Requested size: 347.12354pt x 332.7536pt.
+[1
+
+{C:/Users/damia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+<CLIENT_CLIENT_THREAD.jpg, id=12, 1054.94125pt x 1362.08875pt>
+File: CLIENT_CLIENT_THREAD.jpg Graphic file (type jpg)
+<use CLIENT_CLIENT_THREAD.jpg>
+Package pdftex.def Info: CLIENT_CLIENT_THREAD.jpg  used on input line 44.
+(pdftex.def)             Requested size: 347.12354pt x 448.1813pt.
+[2 <C:/Users/damia/Desktop/facultate/retele_documentatie/SERVER_SERVER_THREAD.j
+pg>]
+<APPLICATION.jpg, id=16, 1672.2475pt x 1671.24374pt>
+File: APPLICATION.jpg Graphic file (type jpg)
+<use APPLICATION.jpg>
+Package pdftex.def Info: APPLICATION.jpg  used on input line 49.
+(pdftex.def)             Requested size: 347.12354pt x 346.91687pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <C:/Users/damia/Desktop/facultate/retele_documentatie/CLIENT_CLIENT_THREAD.
+jpg>]
+<login.jpg, id=20, 1094.0875pt x 1059.96pt>
+File: login.jpg Graphic file (type jpg)
+<use login.jpg>
+Package pdftex.def Info: login.jpg  used on input line 54.
+(pdftex.def)             Requested size: 347.12354pt x 336.29904pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <C:/Users/damia/Desktop/facultate/retele_documentatie/APPLICATION.jpg>]
+<register.jpg, id=24, 1094.0875pt x 930.47626pt>
+File: register.jpg Graphic file (type jpg)
+<use register.jpg>
+Package pdftex.def Info: register.jpg  used on input line 59.
+(pdftex.def)             Requested size: 347.12354pt x 295.21706pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \section
+              {Detalii de implementare}
+? H
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+? return
+OK, entering \nonstopmode...
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <C:/Users/damia/Desktop/facultate/retele_documentatie/login.jpg>]
+<use-case.jpg, id=28, 882.29625pt x 442.65375pt>
+File: use-case.jpg Graphic file (type jpg)
+<use use-case.jpg>
+Package pdftex.def Info: use-case.jpg  used on input line 67.
+(pdftex.def)             Requested size: 347.12354pt x 174.15398pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <C:/Users/damia/Desktop/facultate/retele_documentatie/register.jpg>] [7 <C:
+/Users/damia/Desktop/facultate/retele_documentatie/use-case.jpg>] (docs.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1998 strings out of 492452
+ 28839 string characters out of 3120064
+ 101735 words of memory out of 3000000
+ 6350 multiletter control sequences out of 15000+200000
+ 6020 words of font info for 22 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,6n,30p,769b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/damia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/damia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/damia/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/damia/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/damia/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/damia/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on docs.pdf (7 pages, 664325 bytes).
+PDF statistics:
+ 56 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

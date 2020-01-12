@@ -1,0 +1,4 @@
+Lapusneanu 13 2 benzina 6 ron/l
+Lapusneanu ! 0 Soare
+Ion 12 1 Meci FCSB-Iasi
+Tudor 16 2 motorina 5.5 ron/l

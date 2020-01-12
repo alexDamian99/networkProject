@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>912</width>
+    <height>391</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="3" column="0">
+       <widget class="QLabel" name="start">
+        <property name="text">
+         <string>Start</string>
+        </property>
+       </widget>
+      </item>
+      <item row="16" column="0">
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="6" column="1" colspan="2">
+       <widget class="QLabel" name="path_label">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="0">
+       <widget class="QLabel" name="location_label">
+        <property name="text">
+         <string>Locatie</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="1" colspan="2">
+       <widget class="QLabel" name="location_name">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="1" colspan="2">
+       <widget class="QLabel" name="limit_label">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="12" column="0">
+       <widget class="QLabel" name="label_6">
+        <property name="text">
+         <string>Viteza:</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1" colspan="2">
+       <widget class="QLabel" name="start_label">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="12" column="1">
+       <widget class="QLabel" name="speed_label">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="0">
+       <widget class="QLabel" name="Traseu">
+        <property name="text">
+         <string>Traseu</string>
+        </property>
+       </widget>
+      </item>
+      <item row="16" column="1">
+       <widget class="QPushButton" name="pushButton">
+        <property name="text">
+         <string>Send</string>
+        </property>
+       </widget>
+      </item>
+      <item row="15" column="2">
+       <spacer name="verticalSpacer_4">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="8" column="0">
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>Destinatie</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="0">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>Limita viteza:</string>
+        </property>
+       </widget>
+      </item>
+      <item row="13" column="0">
+       <spacer name="verticalSpacer_3">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="17" column="1">
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="8" column="1" colspan="2">
+       <widget class="QLabel" name="dest_label">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="16" column="2">
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="14" column="0" colspan="3">
+       <widget class="QLineEdit" name="lineEdit"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QListWidget" name="listWidget"/>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
