@@ -36,7 +36,7 @@ void Register::on_pushButton_register_clicked()
     if(ui->checkBox_peco->checkState() == Qt::Checked){
         options[2] = '1';
     }
-    printf("sending %s\n", options);
+
     bool valid = true;
     for(int i = 0; i < user.size() && valid; i++){
         if(user[i] == ' '){
@@ -54,7 +54,7 @@ void Register::on_pushButton_register_clicked()
         write(info_descriptor, "register", 9);
         char*response = new char[15];
         read(info_descriptor, response, 10);
-        qDebug()<<response<<"\n";
+
         if(strcmp(response, "ok") == 0){//trimit catre server nume parola si optiuni
             ui->lineEdit_pass->setText("");
             ui->lineEdit_user->setText("");

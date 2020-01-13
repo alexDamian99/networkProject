@@ -29,7 +29,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QWidget" name="">
+  <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
      <x>9</x>
@@ -52,7 +52,14 @@
        <widget class="QLineEdit" name="lineEdit_user"/>
       </item>
       <item row="2" column="1">
-       <widget class="QLineEdit" name="lineEdit_pass"/>
+       <widget class="QLineEdit" name="lineEdit_pass">
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="echoMode">
+         <enum>QLineEdit::Password</enum>
+        </property>
+       </widget>
       </item>
       <item row="1" column="1">
        <spacer name="verticalSpacer_4">
